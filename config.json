@@ -42,6 +42,16 @@
             "4bit": 2.0
         }
     },
+    "Qwen3-VL-4B-Instruct-abliterated (NSFW)": {
+        "repo_id": "prithivMLmods/Qwen3-VL-4B-Instruct-abliterated",
+        "default": false,
+        "quantized": false,
+        "vram_requirement": {
+            "full": 6.0,
+            "8bit": 3.5,
+            "4bit": 2.0
+        }
+    },
     "Qwen3-VL-4B-Instruct-FP8": {
         "repo_id": "Qwen/Qwen3-VL-4B-Instruct-FP8",
         "default": false,
@@ -68,8 +78,8 @@
             "full": 2.5
         }
     },
-    "Qwen3-VL-8B-Thinking-abliterated (NSFW)": {
-        "repo_id": "huihui-ai/Huihui-Qwen3-VL-8B-Instruct-abliterated",
+    "Qwen3-VL-8B-Instruct-abliterated (NSFW)": {
+        "repo_id": "prithivMLmods/Qwen3-VL-8B-Instruct-abliterated",
         "default": false,
         "quantized": false,
         "vram_requirement": {
